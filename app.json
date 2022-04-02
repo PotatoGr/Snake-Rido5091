@@ -8,7 +8,7 @@
       "modules",
       "productivity"
     ],
-    "repository": "https://github.com/rockey17/Snake-Rido",
+    "repository": "https://github.com/PotatoGr/Snake-Rido5091",
     "env": {
       "api_id": {
         "description": "Collect this value from my.telegram.org and do not share it with anyone.",
